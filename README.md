@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant2737&label=Profile%20views&color=0e75b6&style=flat" alt="vedant2737" /> </p>
 
-- 📫 How to reach me **vedantjraut0009@gamail.com**
+- 📫 How to reach me **vedantjraut0009@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
